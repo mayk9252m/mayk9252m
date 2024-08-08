@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayank
-- 👀 I’m interested in - web development
-- 🌱 I’m currently learning - software development,and Android development 
-- 💞️ I’m looking to collaborate on - web development
+- 👀 I’m interested in - Data Science
+- 🌱 I’m currently learning - AI/ML,and Android development 
+- 💞️ I’m looking to collaborate on - Android development 
 - 📫 How to reach me - mail on mayankshrivastava179@gmail.com
 
 <!---
