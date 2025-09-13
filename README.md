@@ -4,7 +4,8 @@
 
 I’m passionate about turning **data into insights** and building **AI-powered solutions**.  
 From **gesture & voice-controlled systems** 🎮 to **transformer models from scratch** 🤖 
-— I love creating projects that push boundaries.  
+
+I love creating projects that push boundaries.  
 
 ---
 
@@ -53,16 +54,16 @@ From **gesture & voice-controlled systems** 🎮 to **transformer models from sc
 ## 🌐 Connect With Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-shrivastava-681974234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/your-username" target="_blank">
+  <a href="https://leetcode.com/u/mayk9252m/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://kaggle.com/your-username" target="_blank">
+  <a href="https://www.kaggle.com/mayank2005" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mayankshrivastava179@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
