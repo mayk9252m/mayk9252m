@@ -63,7 +63,7 @@ I love creating projects that push boundaries.
   <a href="https://www.kaggle.com/mayank2005" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="mayankshrivastava179@gmail.com">
+  <a href=(mailto:mayankshrivastava179@gmail.com)>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
