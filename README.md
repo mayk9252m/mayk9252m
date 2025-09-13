@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mayank Shrivastava  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">  Hi, I'm Mayank Shrivastava  
 
 ## 🚀 Data Analyst | AI/ML Enthusiast | Creative Technologist  
 
