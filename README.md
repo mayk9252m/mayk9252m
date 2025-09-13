@@ -3,7 +3,8 @@
 ## 🚀 Data Analyst | AI/ML Enthusiast | Creative Technologist  
 
 I’m passionate about turning **data into insights** and building **AI-powered solutions**.  
-From **gesture & voice-controlled systems** 🎮 to **transformer models from scratch** 🤖 — I love creating projects that push boundaries.  
+From **gesture & voice-controlled systems** 🎮 to **transformer models from scratch** 🤖 
+— I love creating projects that push boundaries.  
 
 ---
 
