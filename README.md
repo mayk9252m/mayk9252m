@@ -47,6 +47,8 @@ I love creating projects that push boundaries.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayk9252m&show_icons=true&theme=tokyonight" height="180"/>
 </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayk9252m&layout=compact&theme=dark&hide=html,css)
+
 
 ---
 
