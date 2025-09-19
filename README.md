@@ -13,7 +13,7 @@ I love creating projects that push boundaries.
 
 ### Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sqlite,git,github,vscode,jupyter,java,figma,aws,gcp,docker,kali," />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sqlite,git,github,vscode,jupyter,java,figma,aws,gcp,docker,kali" />
 </p>
 
 ### Libraries & Frameworks  
