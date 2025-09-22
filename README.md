@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">  Hi, I'm Mayank Shrivastava  
 
-## 🚀 Data Analyst | AI/ML Enthusiast | Creative Technologist  
+## 🚀 AI/ML Enthusiast | Data Analyst | Creative Technologist  
 
 I’m passionate about turning **data into insights** and building **AI-powered solutions**.  
 From **gesture & voice-controlled systems** 🎮 to **transformer models from scratch** 🤖 
