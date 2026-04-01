@@ -39,7 +39,7 @@ I love creating projects that push boundaries.
 ## 🌱 Currently Learning  
 - Advanced Machine Learning & Transformers  
 - Generative AI & End-to-End Deployment  
-
+- LLM and Deep Learning
 ---
 
 ## 📊 GitHub Stats  
