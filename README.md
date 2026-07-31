@@ -36,16 +36,17 @@ I build end-to-end AI applications using Machine Learning, Deep Learning, Comput
 
 ---
 
-## 🌱 Currently Learning  
+## 🔭 Currently Building  
 - Advanced Machine Learning & Transformers  
 - Generative AI & End-to-End Deployment  
 - LLM and Deep Learning
+- 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayk9252m&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayk9252m&theme=tokyonight"/>
 </p>
 <br>
 <p align="center">
@@ -89,4 +90,4 @@ I build end-to-end AI applications using Machine Learning, Deep Learning, Comput
 
 ---
 
-⭐️ *"AI is not just automation — it’s creativity, innovation, and building tools that empower people."*  
+⭐️ *"Building intelligent systems that solve real-world problems, one model at a time."*  
