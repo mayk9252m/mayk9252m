@@ -1,11 +1,11 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">  Hi, I'm Mayank Shrivastava  
 
-## 🚀 AI/ML Enthusiast | Data Analyst | Creative Technologist  
+## 🚀 AI/ML Engineer • Machine Learning Engineer • Computer Vision • Deep Learning • MLOps
 
 I’m passionate about turning **data into insights** and building **AI-powered solutions**.  
 From **gesture & voice-controlled systems** 🎮 to **transformer models from scratch** 🤖 
 
-I love creating projects that push boundaries.  
+I build end-to-end AI applications using Machine Learning, Deep Learning, Computer Vision, and modern web technologies. I enjoy taking ideas from research to deployment by creating practical, production-oriented solutions.  
 
 ---
 
@@ -29,7 +29,7 @@ I love creating projects that push boundaries.
 ---
 
 ## 📌 Featured Projects  
-- 💰 **Payment Tracker App** – A finance tracker built with Python + Kivy for Android  
+- 🤖 Industrial Defect Detection Real-time defect detection system using YOLOv8,OpenCV, and custom datasets for industrial quality inspection.  
 - 🎮 **Virtual Game Gesture Controller** – Gesture, eye & voice-controlled game system using OpenCV + PyQt6  
 - 🤖 **Transformer Model from Scratch** – Building an AI language model in PyTorch  
 - 🎨 **Generative AI Experiments** – Creative AI projects & experiments  
@@ -70,6 +70,18 @@ I love creating projects that push boundaries.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+🏆 Built 15+ AI & Full-Stack Projects
+
+📚 Currently exploring LLMs and MLOps
+
+🔥 Active on Kaggle
+
+💻 Open Source Contributor
+
+📈 Learning Docker & Kubernetes
 
 ---
 
