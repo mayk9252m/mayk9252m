@@ -85,4 +85,8 @@ I build end-to-end AI applications using Machine Learning, Deep Learning, Comput
 
 ---
 
+![](https://komarev.com/ghpvc/?username=mayk9252m&color=blue)
+
+---
+
 ⭐️ *"AI is not just automation — it’s creativity, innovation, and building tools that empower people."*  
