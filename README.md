@@ -40,7 +40,6 @@ I build end-to-end AI applications using Machine Learning, Deep Learning, Comput
 - Advanced Machine Learning & Transformers  
 - Generative AI & End-to-End Deployment  
 - LLM and Deep Learning
-- 
 ---
 
 ## 📊 GitHub Stats  
